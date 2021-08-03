@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://helloflo.com/wp-content/uploads/2016/03/shutterstock_322577240.jpg");
+    background-size: cover;
+}
+.CV {
+    background-color: ivory;
+    font-size: 15px;
+    border: 2px solid black;
+    height:auto;
+    width:500px;
+    margin: auto;
+    padding: 15px;
+    width: 30%;
+    
+}
+img {
+    height:150px;
+    width:150px;
+}
+h3 {
+    text-align: center;
+}
