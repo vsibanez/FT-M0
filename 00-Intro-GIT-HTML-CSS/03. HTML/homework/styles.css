@@ -5,6 +5,8 @@ body {
 h1 {
     color:pink;
     font-size:25px;
+    background-color: black;
+    text-align: center;
 }
 img {
     width:400px;
@@ -13,10 +15,17 @@ img {
     height:600px;
     width:500px;
     background-color:lavenderblush;
+    margin: auto;
+    width: 60%;
     padding:50px;
     border: 10px solid black; 
 }
 #spanID {
     font-size:18px;
     margin:50px
+}
+.divClass {
+    margin: auto;
+    width: 60%;
+    padding:10px;
 }
